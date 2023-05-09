@@ -1,2 +1,2 @@
 # newspoems
-documents used to write news poems 1 etc. 
+programs used to write news poems 1 etc. 
